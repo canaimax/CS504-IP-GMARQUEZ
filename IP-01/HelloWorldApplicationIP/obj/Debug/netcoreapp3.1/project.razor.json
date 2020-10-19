@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\HelloWorldApplication.csproj",
+  "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\HelloWorldApplication.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14392,38 +14392,38 @@
   "RootNamespace": "HelloWorldApplication",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\Privacy.cshtml",
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\Captain\\Desktop\\CS504\\hop01-c-hello-world-canaimax\\Module 1\\HelloWorldApplication\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Captain\\Documents\\GitHub\\CS504-IP-GMARQUEZ\\IP-01\\HelloWorldApplicationIP\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
